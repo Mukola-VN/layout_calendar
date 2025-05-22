@@ -7,4 +7,4 @@ $day-font-size: 30px;
 $bg-color: #eee;
 $hover-color: #ffbfcb;
 $border-color: black;
-$calendar-width: ((7 * $cell-size) + 7 * $gap + $padding);
+$calendar-width: ((7 * $cell-size) + 6 * $gap + 2 * $padding);
